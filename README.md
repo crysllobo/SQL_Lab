@@ -1,4 +1,4 @@
-# SQL_Lab
+# SQL_Lab_Supply_Chain
 SQL Labs is a comprehensive engagement module that will test your understanding of basic as well as advanced SQL concepts via a combination of timed tests and well-researched assignments.
 
 The following steps summarise the manner in which you should process your thinking and visualization while writing the solution query:
